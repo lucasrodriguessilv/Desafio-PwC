@@ -1,7 +1,7 @@
-# Programa de estágio desafio-PwC
+# Programa de estágio desafio-PwC.
 Desafio código de endereço para programa de estagio PwC.
 
-## Desejado ao desafio 
+## Desejado ao desafio.
 Um provedor de endereços retorna endereços apenas com ruas concatenadas
 nomes e números. Nosso próprio sistema, por outro lado, tem
 campos para nome da rua e número da rua.
@@ -22,4 +22,4 @@ a. “Rio Branco 23” -> {“Rio Branco”, “23”}
 b. “Quirino dos Santos 23 b” -> {“Quirino dos Santos”, ”23 b”}
 
 
-### Esse desafio foi criado na linguagem Java Back-end
+### Esse desafio foi criado na linguagem Java Back-end.
